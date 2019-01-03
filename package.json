@@ -1,0 +1,14 @@
+{
+  "name": "check-protocol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protocolCheck.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kim Schlesinger",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
